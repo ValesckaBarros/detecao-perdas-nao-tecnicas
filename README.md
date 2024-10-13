@@ -1,6 +1,6 @@
 # Detecção de Perdas Não Técnicas em Sistemas Elétricos
 
-Este repositório contém o código e os recursos desenvolvidos para o projeto de mestrado intitulado "Análise de Perdas Não Técnicas em Sistemas Elétricos". O objetivo do projeto foi aplicar técnicas de machine learning para identificar e classificar perdas não técnicas em sistemas elétricos, visando otimizar a gestão de recursos e reduzir desperdícios.
+Este repositório contém o código e os recursos desenvolvidos para o projeto de mestrado intitulado **"Técnicas de Machine Learning na Detecção de Perdas Não Técnicas"**. O objetivo do projeto foi aplicar técnicas de machine learning para identificar e classificar perdas não técnicas em sistemas elétricos, visando otimizar a gestão de recursos e reduzir desperdícios.
 
 ## Descrição do Projeto
 
